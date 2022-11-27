@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Misha Khorenko
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning in school
+- 💞️ I’m looking to collaborate on projects
